@@ -1,6 +1,7 @@
 ## Commit Messages
 
 ### Structure
+No Commit message is also acceptable
 
 A git commit message is composed of a subject and an optional body. The subject is the first line of a commit message and the body is everything after. Although optional, you should seperate the subject and body with a blank line.
 
